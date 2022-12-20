@@ -1,0 +1,4 @@
+Nama : Rian Firmansyah
+Umur : 22 Tahun
+Stack : Backend
+Bahasa Pemrograman : PHP
